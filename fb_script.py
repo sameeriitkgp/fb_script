@@ -1,7 +1,7 @@
 import requests
 import json
 
-TOKEN = 'you_token_here'
+TOKEN = 'your_token_here'
 
 def get_all_posts():
     ''' Get all facebook posts on your timeline after specified unix datetime '''
